@@ -16,8 +16,8 @@ import com.opencsv.bean.CsvToBeanBuilder;
 
 public class OpenCSVAndGSONTester {
 
-    private static final String SAMPLE_CSV_FILE_PATH = "F:\\address-book-system-csv-json\\users-with-header.csv";
-    private static final String SAMPLE_JSON_FILE_PATH = "F:\\address-book-system-csv-json\\users.json";
+    private static final String SAMPLE_CSV_FILE_PATH = "G:\\user\\address-book-system-csv-json\\src\\com\\bridgelabz\\users-with-header.csv.csv";
+    private static final String SAMPLE_JSON_FILE_PATH = "G:\\user\\address-book-system-csv-json\\src\\com\\bridgelabz\\users.json";
 
     public static void main(String[] args) {
 
